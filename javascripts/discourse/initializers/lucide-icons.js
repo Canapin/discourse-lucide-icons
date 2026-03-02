@@ -176,6 +176,7 @@ function initIcons(api) {
   api.replaceIcon("forward", "lu-fast-forward");
   api.replaceIcon("forward-fast", "lu-fast-forward");
   api.replaceIcon("forward-step", "lu-skip-forward");
+  api.replaceIcon("gamepad", "lu-gamepad");
   api.replaceIcon("gavel", "lu-gavel");
   api.replaceIcon("gear", "lu-settings");
   api.replaceIcon("gift", "lu-gift");
@@ -213,12 +214,13 @@ function initIcons(api) {
   api.replaceIcon("map-marker-alt", "lu-map-pin");
   api.replaceIcon("medal", "lu-medal");
   api.replaceIcon("microphone-slash", "lu-mic-off");
-  api.replaceIcon("microphone-bars", "lu-mic");
+  api.replaceIcon("microphone-lines", "lu-mic");
   api.replaceIcon("minus", "lu-minus");
   api.replaceIcon("minus-circle", "lu-circle-minus");
   api.replaceIcon("mobile-alt", "lu-smartphone");
   api.replaceIcon("mobile-screen-button", "lu-smartphone");
   api.replaceIcon("moon", "lu-moon");
+  api.replaceIcon("newspaper", "lu-newspaper");
   api.replaceIcon("notification.assigned", "lu-user-plus");
   api.replaceIcon("notification.chat_quoted", "lu-quote");
   api.replaceIcon("notification.edited", "lu-pencil");
